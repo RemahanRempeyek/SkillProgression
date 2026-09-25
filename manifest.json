@@ -1,0 +1,9 @@
+{
+  "Name": "Skill Progression",
+  "Author": "Gin",
+  "Version": "1.0.0",
+  "Description": "Adds skill-based character progression.",
+  "UniqueID": "YolBukik.SkillProgression",
+  "EntryDll": "SkillProgression.dll",
+  "MinimumApiVersion": "4.5.2"
+}

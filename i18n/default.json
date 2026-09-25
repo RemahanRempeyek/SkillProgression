@@ -1,0 +1,35 @@
+{
+  "config.level": "Level {{level}}",
+
+  "config.max_health_section": "Combat: Max Health",
+  "config.max_health_description": "Bonus Max Health based on Combat Level.",
+  "config.max_health_tooltip": "Max Health bonus at Combat Level {{level}}.",
+
+  "config.defense_section": "Combat: Defense",
+  "config.defense_description": "Bonus Defense based on Combat Level.",
+  "config.defense_tooltip": "Defense bonus at Combat Level {{level}}.",
+
+  "config.farming_quality_section": "Farming: Harvest Quality",
+  "config.farming_quality_description": "Adds a chance to improve crop quality based on Farming Level.",
+  "config.enable_quality_boost": "Enable Quality Boost",
+  "config.normal_to_silver_chance": "Normal → Silver Chance",
+  "config.normal_to_silver_chance_tooltip": "Chance for a Normal-quality crop to become Silver.",
+  "config.silver_to_gold_chance": "Silver → Gold Chance",
+  "config.silver_to_gold_chance_tooltip": "Chance for a Silver-quality crop to become Gold.",
+  "config.gold_to_iridium_chance": "Gold → Iridium Chance",
+  "config.gold_to_iridium_chance_tooltip": "Chance for a Gold-quality crop to become Iridium.",
+  "config.farming_level": "Farming Level {{level}}",
+  "config.farming_quality_chance_tooltip": "Chance at Farming Level {{level}}.",
+
+  "config.harvest_quantity_section": "Farming: Harvest Quantity",
+  "config.harvest_quantity_description": "Chance to gain +1 additional item from crop harvests based on Farming Level.",
+  "config.enable_quantity_boost": "Enable Quantity Boost",
+  "config.quantity_chance": "Level {{level}} Quantity Chance",
+  "config.quantity_chance_tooltip": "Chance to gain +1 additional item at Farming Level {{level}}.",
+
+  "config.artisan_speed_section": "Machine Processing Speed",
+  "config.artisan_speed_description": "Farming Level can reduce machine processing time. Incubators are excluded.",
+  "config.enable_artisan_speed": "Enable Machine Speed Boost",
+  "config.artisan_speed_reduction": "Level {{level}} Speed Reduction",
+  "config.artisan_speed_tooltip": "Reduce machine processing time by this percentage at Farming Level {{level}}."
+}

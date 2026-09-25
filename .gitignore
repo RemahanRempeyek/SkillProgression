@@ -1,0 +1,18 @@
+bin/
+obj/
+
+*.user
+*.suo
+
+Crop.txt
+CropIL.txt
+GMCM.txt
+GameDataIL.txt
+ObjectIL.txt
+OutputMachineOnly.txt
+StardewIL.txt
+farming_gmcm.txt
+farming_gmcm_i18n.txt
+
+# Local build references
+lib/

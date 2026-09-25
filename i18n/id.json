@@ -1,0 +1,35 @@
+{
+  "config.level": "Level {{level}}",
+
+  "config.max_health_section": "Combat: HP Maksimal",
+  "config.max_health_description": "Bonus HP Maksimal berdasarkan Level Combat.",
+  "config.max_health_tooltip": "Bonus HP pada Level Combat {{level}}.",
+
+  "config.defense_section": "Combat: Defense",
+  "config.defense_description": "Bonus Defense berdasarkan Level Combat.",
+  "config.defense_tooltip": "Bonus Defense pada Level Combat {{level}}.",
+
+  "config.farming_quality_section": "Farming: Kualitas Panen",
+  "config.farming_quality_description": "Menambahkan peluang meningkatkan kualitas tanaman berdasarkan Level Farming.",
+  "config.enable_quality_boost": "Aktifkan Peningkatan Kualitas",
+  "config.normal_to_silver_chance": "Peluang Normal → Silver",
+  "config.normal_to_silver_chance_tooltip": "Peluang tanaman berkualitas Normal menjadi Silver.",
+  "config.silver_to_gold_chance": "Peluang Silver → Gold",
+  "config.silver_to_gold_chance_tooltip": "Peluang tanaman berkualitas Silver menjadi Gold.",
+  "config.gold_to_iridium_chance": "Peluang Gold → Iridium",
+  "config.gold_to_iridium_chance_tooltip": "Peluang tanaman berkualitas Gold menjadi Iridium.",
+  "config.farming_level": "Level Farming {{level}}",
+  "config.farming_quality_chance_tooltip": "Peluang pada Level Farming {{level}}.",
+
+  "config.harvest_quantity_section": "Farming: Jumlah Panen",
+  "config.harvest_quantity_description": "Peluang mendapatkan +1 item tambahan dari hasil panen berdasarkan Level Farming.",
+  "config.enable_quantity_boost": "Aktifkan Peningkatan Jumlah Panen",
+  "config.quantity_chance": "Peluang Jumlah Panen Level {{level}}",
+  "config.quantity_chance_tooltip": "Peluang mendapatkan +1 item tambahan pada Level Farming {{level}}.",
+
+  "config.artisan_speed_section": "Kecepatan Pemrosesan Mesin",
+  "config.artisan_speed_description": "Level Farming dapat mengurangi waktu pemrosesan mesin. Inkubator tidak termasuk.",
+  "config.enable_artisan_speed": "Aktifkan Peningkatan Kecepatan Mesin",
+  "config.artisan_speed_reduction": "Pengurangan Waktu Level {{level}}",
+  "config.artisan_speed_tooltip": "Kurangi waktu pemrosesan mesin sebesar persentase ini pada Level Farming {{level}}."
+}

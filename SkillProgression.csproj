@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableModDeploy>false</EnableModDeploy>
+    <GamePath>lib</GamePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="StardewModdingAPI">
+      <HintPath>lib/StardewModdingAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="SMAPI.Toolkit.CoreInterfaces">
+      <HintPath>lib/SMAPI.Toolkit.CoreInterfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="StardewValley">
+      <HintPath>lib/Stardew Valley.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="StardewValley.GameData">
+      <HintPath>lib/StardewValley.GameData.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="GenericModConfigMenu">
+      <HintPath>lib/GenericModConfigMenu.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <Reference Include="0Harmony">
+      <HintPath>lib/0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>
