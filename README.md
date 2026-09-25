@@ -44,22 +44,6 @@ Skill Progression uses Generic Mod Config Menu (GMCM) for in-game configuration.
 - Harvest quantity chance for Levels 1–10
 - Artisan machine speed reduction for Levels 1–10
 
-## Installation
-
-1. Install SMAPI.
-2. Install Generic Mod Config Menu.
-3. Copy the SkillProgression folder into your Stardew Valley Mods folder.
-
-The final structure should look like:
-
-Mods/
-└── SkillProgression/
-    ├── SkillProgression.dll
-    ├── manifest.json
-    └── i18n/
-        ├── default.json
-        └── id.json
-
 ## Compatibility
 
 - Stardew Valley 1.6.15
